@@ -157,7 +157,7 @@
     </DownloadItem>
     <DownloadItem>
         <Comment></Comment>
-        <FullName>Visual C++ Redistributable for Visual Studio 2015 (x86)</FullName>
+        <FullName>Visual C++ Redistributable for Visual Studio 2017 (x86)</FullName>
         <ShortName>VS2017X86</ShortName>
         <Source>https://go.microsoft.com/fwlink/?LinkId=746571</Source>
         <DestinationFolder>VS2017</DestinationFolder>
